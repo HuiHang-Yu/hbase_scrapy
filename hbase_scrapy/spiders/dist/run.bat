@@ -1,0 +1,1 @@
+hbaseRegionChecker.exe  --url http://localhost:16010
